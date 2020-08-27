@@ -1,3 +1,3 @@
 # minha-plataforma-de-estudos-
 
-seja livre para fazer qualquer edição nessa plataforma de estudos 
+plataforma de estudos desenvolvida com o curso NLW
